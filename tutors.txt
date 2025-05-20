@@ -1,0 +1,3 @@
+dd0d7596-f387-40e6-87e1-e6b2d53f8bb7,Sithum01,Galle,Math,5,Monaday-5.00-7.00,Math
+412c010d-107c-47d2-8db3-1d1d3a7cc4b4,Sithum02,Galle,Math,5,Monday:5.00-3.00,Math
+c0c20925-a186-416d-9e6f-3300ea30385a,Sithum Test,Galle,Math,2,Monday all day,Math
